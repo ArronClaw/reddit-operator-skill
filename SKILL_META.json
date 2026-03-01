@@ -1,0 +1,9 @@
+{
+  "name": "reddit-operator",
+  "version": "1.0.0",
+  "description": "Reddit 社区运营 Bot。自动化养号 + 智能互动 + 关键词监控。模拟真人行为，避免营销痕迹，先建立信任再转化。",
+  "author": "ArronClaw",
+  "tags": ["reddit", "marketing", "automation", "growth", "community"],
+  "repository": "https://github.com/ArronClaw/reddit-operator",
+  "license": "MIT"
+}

@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Node
+node_modules/
+package-lock.json
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+
+# OpenClaw specific
+.openclaw-state.json
