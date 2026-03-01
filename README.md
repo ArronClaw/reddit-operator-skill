@@ -95,6 +95,36 @@ Reddit 运营
 - ❌ 不规避封禁
 - ❌ 不操纵投票/karma
 
+## Git 同步
+
+每次更新后，使用以下命令同步到 GitHub：
+
+```bash
+# 方式1：使用快捷脚本
+./git-sync.sh "更新说明"
+
+# 方式2：手动 git 操作
+git add .
+git commit -m "更新说明"
+git push origin main
+```
+
+**OpenClaw 会自动在每次更新后执行 git push**
+
+## 仓库信息
+
+- **GitHub**: https://github.com/ArronClaw/reddit-operator-skill
+- **Author**: Arron Young (Custyle)
+- **Created**: 2026-03-01
+
+## 更新日志
+
+### 2026-03-01
+- 初始版本发布
+- 整合白皮书内容
+- 配置自动任务
+- 创建 GitHub 仓库
+
 ## License
 
 MIT
